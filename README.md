@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there, I am Frank Zhao 👋
 
+* I am an aspiring data scientist and looking for full-time opportunities.
+* :pencil: My favourite programming languages are Python and MySQL.
+* 🌱 I’m currently learning deep learning.
+
+### 📫 How to reach me:  
+* [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/frankhzhao/)
 <!--
 **DigimonFrankie/DigimonFrankie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
