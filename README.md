@@ -2,7 +2,7 @@
 
 * I am an aspiring data scientist and looking for full-time opportunities.
 * :pencil: My favourite programming languages are Python and MySQL.
-* 🌱 I’m currently learning deep learning.
+* 🌱 I’m currently uploading my previous projects to GitHub.
 
 ### 📫 How to reach me:  
 * [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/frankhzhao/)
