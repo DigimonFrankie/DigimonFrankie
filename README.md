@@ -3,6 +3,7 @@
 * I am an aspiring data scientist and looking for full-time opportunities.
 * :pencil: My favourite programming languages are Python and MySQL.
 * 🌱 I’m currently uploading my past and new projects to GitHub.
+* :desktop_computer: I code for fun: at least 1 coding problem a day!
 
 ### 📫 How to reach me:  
 * [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/frankhzhao/)
