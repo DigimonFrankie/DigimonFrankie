@@ -5,6 +5,8 @@
 * 🌱 I’m currently uploading my past and new projects to GitHub.
 * :desktop_computer: I code for fun: at least 1 coding problem a day!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📫 How to reach me:  
 * [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/frankhzhao/)
 <!--
