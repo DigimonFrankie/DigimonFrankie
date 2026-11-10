@@ -1,6 +1,5 @@
 ### Hi there, I am Frank Zhao 👋
 
-* I am an aspiring data scientist and looking for full-time opportunities.
 * :pencil: My favourite programming languages are Python and MySQL.
 * 🌱 I’m currently uploading my past and new projects to GitHub.
 * 🔭 I’m currently working on various machine learning projects and comparing the performance between Scikit-learn and TensorFlow running on an ARM chip.
